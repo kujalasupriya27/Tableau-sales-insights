@@ -1,4 +1,4 @@
-_(Sales insights)[https://github.com/kujalasupriya27/Tableau-sales-insights/blob/ea0f3d665a3c3a20b7e68c745bcf63de1af1e99c/Book1.pdf]_
+_[Sales insights](https://github.com/kujalasupriya27/Tableau-sales-insights/blob/ea0f3d665a3c3a20b7e68c745bcf63de1af1e99c/Book1.pdf)_
  
 Created a comprehensive sales insight report in Tableau that provides actionable insights to sales leaders and teams, leveraging ETL (Extract, Transform, Load) processes, data cleaning, and data analysis to: 
  
