@@ -1,11 +1,25 @@
 _[Sales insights](https://github.com/kujalasupriya27/Tableau-sales-insights/blob/ea0f3d665a3c3a20b7e68c745bcf63de1af1e99c/Book1.pdf)_
  
-Created a comprehensive sales insight report in Tableau that provides actionable insights to sales leaders and teams, leveraging ETL (Extract, Transform, Load) processes, data cleaning, and data analysis to: 
- 
-1. Analyze sales performance: Track key sales metrics such as revenue, sales growth, and conversion rates across regions, products, and sales channels.
-2. Identify trends and patterns: Discover correlations between sales data, seasonality, and market influences to inform sales strategies.
-3. Optimize sales operations: Provide data-driven recommendations to streamline sales processes, enhance sales productivity, and improve customer engagement.
-4. Enable data-driven decision-making: Offer real-time insights and interactive visualizations to facilitate informed decisions on sales forecasting, resource allocation, and performance optimization.
+Designed and developed a comprehensive Sales Insight Report and Dashboard in Tableau, leveraging ETL, data cleaning, data analysis, and data visualization best practices to provide actionable insights and drive sales performance optimization.
+
+Key Objectives:
+
+1. ETL and Data Cleaning:
+    - Extract relevant sales data from various sources (CRM, ERP, marketing automation)
+    - Transform and clean data to ensure quality, consistency, and accuracy
+    - Load data into Tableau for analysis and visualization
+2. Data Analysis:
+    - Conduct in-depth analysis of sales trends, patterns, and correlations
+    - Identify areas of improvement and opportunities for growth
+    - Develop predictive models and forecasts to inform sales strategies
+3. Data Visualization Report:
+    - Create interactive and dynamic dashboards and reports in Tableau
+    - Design intuitive and informative visualizations (charts, tables, maps, etc.)
+    - Ensure data storytelling and insights are clear and actionable
+4. Insights and Recommendations:
+    - Provide data-driven insights and recommendations to sales leaders and teams
+    - Identify best practices and areas for process improvement
+    - Offer guidance on sales strategy, resource allocation, and performance optimization
 
 Key Performance Indicators (KPIs):
 
@@ -15,22 +29,15 @@ Key Performance Indicators (KPIs):
 - Sales channel effectiveness (e.g., online, offline, partner sales)
 - Customer acquisition and retention rates
 
-ETL Process:
+Data Visualization Report Components:
 
-- Extract: Gather data from CRM, ERP, and marketing automation systems
-- Transform: Clean, normalize, and transform data for analysis
-- Load: Load transformed data into Tableau for visualization and analysis
+- Executive Summary
+- Sales Performance Overview
+- Regional and Product Sales Analysis
+- Sales Channel and Customer Insights
+- Predictive Analytics and Forecasts
+- Recommendations and Action Plan
 
-Data Cleaning:
-
-- Handle missing values and data inconsistencies
-- Remove duplicates and irrelevant data points
-- Validate data formats and ensure data quality
-
-Data Analysis:
-
-- Develop interactive dashboards and visualizations in Tableau
-- Apply statistical models and machine learning algorithms to identify trends and patterns
-- Conduct A/B testing and scenario analysis to inform sales strategies
-
-By achieving this objective, the sales insight report will empower sales leaders and teams to make data-driven decisions, optimize sales performance, and drive business growth.
+By achieving this objective, the Sales Insight Report and Dashboard will become a critical tool for sales leaders and teams, enabling data-driven decision-making, performance optimization, and business growth.
+ 
+ 
